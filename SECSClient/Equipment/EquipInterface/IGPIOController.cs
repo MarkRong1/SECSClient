@@ -14,5 +14,6 @@ namespace SECSClient.Equipment.Interface
         Task SendAsync(CancellationToken ct);
         Task DisconnectAsync(CancellationToken ct);
 
+
     }
 }
